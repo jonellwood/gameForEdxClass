@@ -1,0 +1,12 @@
+body {
+    background-image: url("Tron.jpg");
+    background-size: contain;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+p {
+    color: white;
+}
